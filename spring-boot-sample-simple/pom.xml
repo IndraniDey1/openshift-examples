@@ -13,9 +13,10 @@
         <url>http://www.spring.io</url>
     </organization>
     <properties>
-            <spring.boot.version>1.4.2.RELEASE</spring.boot.version>
+            <spring.boot.version>2.2.5.RELEASE</spring.boot.version>
             <maven.compiler.source>1.8</maven.compiler.source>
             <maven.compiler.target>1.8</maven.compiler.target>
+            <com.redhat.xpaas.repo.redhatga></com.redhat.xpaas.repo.redhatga>
     </properties>
     <dependencies>
         <dependency>
